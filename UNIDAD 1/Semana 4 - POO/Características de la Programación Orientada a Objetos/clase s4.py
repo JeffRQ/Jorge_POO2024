@@ -11,3 +11,4 @@ class Vehiculo:
 # Crear un objeto de la clase Vehiculo
 mi_coche = Vehiculo("Toyota", "Corolla", 2020)
 print(mi_coche.descripcion())
+

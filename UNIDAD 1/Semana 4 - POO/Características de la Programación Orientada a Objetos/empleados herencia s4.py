@@ -21,3 +21,4 @@ empleado1 = Empleado("Shirley Ramírez",3000)
 gerente1 = Gerente("Genesis Zambrano",5000,"ventas")
 print(empleado1.mostrar_detalles())
 print(gerente1.mostrar_detalles())
+
