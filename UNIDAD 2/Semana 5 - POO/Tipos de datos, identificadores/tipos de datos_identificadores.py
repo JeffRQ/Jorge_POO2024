@@ -2,7 +2,7 @@
 # Descripción: Este programa calcula el área de un triángulo dados la base y la altura.
 
 def calcular_area_triangulo(base, altura):
-    """"
+    """
     Calcula el área de un triángulo.
 
     Args:
