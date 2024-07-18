@@ -31,3 +31,4 @@ for dia in ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Do
 # Cálculo y presentación del promedio semanal
 promedio_semanal = sum(registro.obtener_temperatura() for registro in registros_semanales) / len(registros_semanales)
 print(f"El promedio semanal de temperaturas es de: {promedio_semanal:.2f}°C")
+

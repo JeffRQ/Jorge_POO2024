@@ -39,3 +39,4 @@ for dia in ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Do
 # Cálculo y presentación del promedio semanal
 promedio_semanal = calcular_promedio_semanal(temperaturas_semanales)
 print(f"El promedio semanal de temperaturas es de: {promedio_semanal:.2f}°C")
+
