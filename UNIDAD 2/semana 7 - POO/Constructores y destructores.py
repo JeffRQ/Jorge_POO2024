@@ -55,3 +55,4 @@ del moto2
 
 # No es necesario eliminar las motos explícitamente,
 # el recolector de basura lo hará automáticamente cuando ya no se usen.
+
