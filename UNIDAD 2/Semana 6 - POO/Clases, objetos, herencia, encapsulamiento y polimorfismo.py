@@ -77,4 +77,3 @@ cliente1.obtener_informacion()
 clienteVIP1 = ClienteVIP("Jefferson", "Ramírez", "jefframirezq@gmail.com", 100, "Plata")
 clienteVIP1.obtener_informacion()
 clienteVIP1.obtener_descuento(500)
-
