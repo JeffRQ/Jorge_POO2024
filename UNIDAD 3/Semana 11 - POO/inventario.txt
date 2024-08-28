@@ -1,0 +1,4 @@
+JJRQ01,Motocicleta,6,3.5
+JJRQ02,Automovil,9,18.999
+JJRQ03,Bicicleta,37,360.0
+JJRQ04,Scooter,28,1.299
